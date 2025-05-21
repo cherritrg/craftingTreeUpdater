@@ -1,12 +1,17 @@
 {
   "homepage": "https://modrinth.com/mod/craftingtree",
-    "1.21.1": {
+    "1.21.4": {
+      "0.0.4": "<Heavy port to NeoForge 1.21.4, log blocks, redstone equipment, potions, and more>"
+    },
+      "1.20.1": {
       "0.0.3": "<Ability to burn items, coins, mosaic wood, more pressure plates and buttons, and more>",
       "0.0.2": "<Tables, mineral apples, more nuggets, compact mob drop blocks, and more>",
       "0.0.1": "<Release - colored wood, mineral blocks, crafting recipes for uncraftable items, and more>"
     },
      "promos": {
-        "1.21.1-latest": "0.0.3",
-        "1.21.1-recommended": "0.0.3"
+        "1.21.4-latest": "0.0.4",
+        "1.21.4-recommended": "0.0.4",
+        "1.20.1-latest": "0.0.3",
+        "1.20.1-recommended": "0.0.3"
     }
 }
